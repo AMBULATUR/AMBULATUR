@@ -5,5 +5,5 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=AMBULATUR)
 
 
-![](https://page-views.glitch.me/badge?page_id=page.id)
+![](https://page-views.glitch.me/badge?page_id=page.id?range=last_7_days)
 
